@@ -22,7 +22,7 @@ On the [website](https://looplang.org/docs/usage/installation) there is a compre
 ## Looking to help
 
 If you want to contribute to Loops growth; Choose one of the three projects. In the repositories are more instructions to get started. Go to our [Jira](https://looplang.atlassian.net/jira/dashboards/10003) to see the current tasks relating all the projects. <br>
-Also take a look at the [Development Guidelines](https://github.com/looplanguage/.github/issues/1), these are essential when you want to contribute.<br>
+
 
 | Project            | Description                                                                    |
 | -----------        | -----------                                                                    |
@@ -32,6 +32,10 @@ Also take a look at the [Development Guidelines](https://github.com/looplanguage
 
 **Note:** LPR is the Loop Package Repository. It's Loops equivalent to NuGet and NPM. <br>
 Our software is written using technologies like: .NET 6, Rust and TypeScript
+
+### Development Guidelines
+
+Take a look at the [Development Guidelines](https://github.com/looplanguage/.github/issues/1), these are essential when you want to contribute.<br>
 
 ##
 
