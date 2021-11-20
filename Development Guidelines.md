@@ -22,7 +22,7 @@
 
 - Give clear and semantic names to your branches.
   1. It needs to start with the id of the issue in [Jira](https://looplang.atlassian.net/jira/software/c/projects/LOOP/issues). Examples: `LOOP-44` or `LOOP-3`.
-  2. After the id, you need to give it as short as possible name that is discriptive.
+  2. After the id, you need to give it as short as possible name that is descriptive.
   3. Examples: `LOOP-3-enums` or `LOOP-77-implement-inkwell`. 
 - To merge the PR, you need approval from at least the project lead, **and** @kanersps or @WouterPennnings.
 - Tests are required, otherwise the PR will be denied. We do not want untested/unproven code in our software.
