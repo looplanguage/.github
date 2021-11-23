@@ -37,6 +37,16 @@ Our software is written using technologies like: .NET 6, Rust and TypeScript
 
 Take a look at the [Development Guidelines](https://github.com/looplanguage/.github/issues/1), these are essential when you want to contribute.<br>
 
+## Roadmap Loop
+
+We created a roadmap for Loop, this is to remind ourselves of the goal that we are working towards.<br>
+These are in chronological order, but we might alter a bit:
+- [ ] First release: V0.1.0 (About Febuari 2022)
+- [ ] JIT Compiling (Just-in-time) 
+- [ ] Type-safety
+- [ ] Rust Plugins in Loop
+- [ ] Python cross compatibility 
+
 ##
 
 <p align="center">Go to the website for more information.</p>
