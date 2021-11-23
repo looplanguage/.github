@@ -4,7 +4,8 @@
        <a href="https://looplang.org/">Website</a> | 
        <a href="https://looplang.org/docs">Documentation</a> | 
        <a href="https://discord.gg/CAGR36aD">Discord</a> | 
-       <a href="https://looplang.atlassian.net/jira/dashboards/10003">Jira Board</a><br>
+       <a href="https://looplang.atlassian.net/jira/dashboards/10003">Jira Board</a><br><br><br>
+       <img height=150 src="loop_logo_icon.svg"/>
     </p>
 <br>
 
