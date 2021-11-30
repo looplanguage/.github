@@ -10,6 +10,7 @@
 <br>
 
 <p align="center">
+<h3>WE ARE MOVING TO <a href="https://gitlab.com/loop-language">GITLAB</a></h3>
 We are a team of mostly Fontys University IT students from the Netherlands.
 Here you will find all the software officially written by the members of Loop and its contributors. If you want to help and continue our development of Loop, go to the 
 <a href="https://looplang.org/">website</a> and the repositories to see the current issues.
