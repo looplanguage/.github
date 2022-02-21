@@ -43,7 +43,7 @@ Take a look at the [Development Guidelines](https://github.com/looplanguage/.git
 
 We created a roadmap for Loop, this is to remind ourselves of the goal that we are working towards.<br>
 These are in chronological order, but we might alter a bit:
-- [ ] First release: V0.1.0 (About Febuari 2022)
+- [x] First release: V0.1.0 (About Febuari 2022)
 - [ ] JIT Compiling (Just-in-time) 
 - [ ] Type-safety
 - [ ] Rust Plugins in Loop
