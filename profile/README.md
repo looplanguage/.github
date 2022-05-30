@@ -10,30 +10,32 @@
 <br>
 
 <p align="center">
-<h3>WE ARE MOVING TO <a href="https://gitlab.com/loop-language">GITLAB</a></h3>
+<h3>We use <a href="https://gitlab.com/loop-language">GitLab</a> as our development repository</h3>
 We are a team of mostly Fontys University IT students from the Netherlands.
 Here you will find all the software officially written by the members of Loop and its contributors. If you want to help and continue our development of Loop, go to the 
 <a href="https://looplang.org/">website</a> and the repositories to see the current issues.
 </p>
 
 ## Want to try Loop
-**Note:** Currently Loop is still in its early development stages. There are loads of bugs, missing features and it is simply a unfinished project. 
+> **Note:** Currently Loop is still in its early development stages. There are loads of bugs, missing features and it is simply a unfinished project. 
 
-On the [website](https://looplang.org/docs/usage/installation) there is a comprehensive guide on how to start using the language.
+Want to try Loop, you have two options:
+1. Go to [downloads.looplang.org](https://downloads.looplang.org), and download the latest version.
+2. Go to [try.looplang.org](https://try.looplang.org), and try the online version of Loop running on Wasm.
+
+On the [website](https://looplang.org/docs/usage/installation) there is a comprehensive guide on how to start using the language. 
 
 ## Looking to help
 
-If you want to contribute to Loops growth; Choose one of the three projects. In the repositories are more instructions to get started. Go to our [Jira](https://looplang.atlassian.net/jira/dashboards/10003) to see the current tasks relating all the projects. <br>
+If you want to contribute to Loops growth; Choose one of the four projects. In the repositories are more instructions to get started. Go to our [Jira](https://looplang.atlassian.net/jira/dashboards/10003) to see the current tasks relating all the projects. <br>
 
 
-| Project            | Description                                                                    |
-| -----------        | -----------                                                                    |
-| The Loop Language  | [loop](https://github.com/looplanguage/loop.git)                               |
-| LPR Front-End      | [pkg.looplang.org](https://github.com/looplanguage/pkg.looplang.org)           |
-| LPR Back-end       | [api.pkg.looplang.org](https://github.com/looplanguage/api.pkg.looplang.org)   |
-
-**Note:** LPR is the Loop Package Repository. It's Loops equivalent to NuGet and NPM. <br>
-Our software is written using technologies like: .NET 6, Rust and TypeScript
+| Project            | Description                                
+| -----------        | -----------                                
+| [loop](https://gitlab.com/looplanguage/loop)      | Encompassing package   |   
+| [Picasso](https://gitlab.com/looplanguage/loop)   | Loop to Arc parser     |
+| [Vinci](https://gitlab.com/looplanguage/loop)     | Arc to AST parser      |
+| [Sanzio](https://gitlab.com/looplanguage/loop)    | Compiler               |
 
 ### Development Guidelines
 
@@ -44,9 +46,9 @@ Take a look at the [Development Guidelines](https://github.com/looplanguage/.git
 We created a roadmap for Loop, this is to remind ourselves of the goal that we are working towards.<br>
 These are in chronological order, but we might alter a bit:
 - [x] First release: V0.1.0 (About Febuari 2022)
-- [ ] JIT Compiling (Just-in-time) 
+- [x] JIT Compiling (Just-in-time) 
 - [ ] Type-safety
-- [ ] Rust Plugins in Loop
+- [ ] Foreign Function Interface
 - [ ] Python cross compatibility 
 
 ##
